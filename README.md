@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Mahima Jha, a B.Tech (AIML) student at IGDTUW, currently focused on learning Full Stack Web Development
+Hi, I am Mahima Jha, a B.Tech (AIML) student at IGDTUW, currently focused on learning Full Stack Web Development.
 
 
 # 💻 Tech Stack:

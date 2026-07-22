@@ -16,8 +16,13 @@
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,tensorflow,pytorch,sklearn,vscode,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
@@ -34,9 +39,9 @@
 
 ---
 
-## 📈 Most Used Languages
+## 📊 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimagits&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimagits&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 

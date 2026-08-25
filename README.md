@@ -14,14 +14,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,git,github,vscode" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=mahimagits&theme=tokyonight)
